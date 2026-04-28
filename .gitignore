@@ -2,7 +2,6 @@
 node_modules
 
 # env files
-.env
 Backend/.env
 
 # build
@@ -14,4 +13,4 @@ dist
 *.pem
 uploads/
 eng.traineddata
-.env
+config.bat
